@@ -3,8 +3,6 @@ package com.example.flickster.models;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-
-@Parcel
 public class Movie {
     // values from API
     private String title;
